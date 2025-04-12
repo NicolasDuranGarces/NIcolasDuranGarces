@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AtlanticSoft<br>👨‍💻💡 I'm a software engineer passionate about building clean and maintainable code. With over 2 years of professional experience, I develop web applications 🌐 using Python (FastAPI, Flask, Django) and Node.js (Express). I also have expertise in AWS Lambda development using the Serverless Framework. I thrive in teamwork and always eager to learn from others. Let's create amazing solutions together! 🚀🔥
+🔭 I’m currently working on AtlanticSoft<br>👨‍💻💡 I'm a software engineer passionate about building clean and maintainable code. With over 4 years of professional experience, I develop web applications 🌐 using Python (FastAPI, Flask, Django) and Node.js (Express). I also have expertise in AWS Lambda development using the Serverless Framework. I thrive in teamwork and always eager to learn from others. Let's create amazing solutions together! 🚀🔥
 
 
 ## 🌐 Socials:
